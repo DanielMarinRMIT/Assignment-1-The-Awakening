@@ -2,6 +2,8 @@
 
 Here is my program for Assingment 1. 
 
+To run these processing files properly, you will need to rename the root folder MSAOS_2018.
+
 My program essentially attempts to imitate the classic paint program. Functions and aesthetics are inspired by Microsoft Paint from the 90’s and the early 2000’s, and comprise of intermediate greys, and boxy bevelled edges. Parodying some professional design programs, I named my software Make Some Art or Something: Professional Edition 2018, and the first thing you’ll see when you open the program is a splash screen that displays this name in a logo form, and the logo of the developer underneath, which I just simply named SoftwareSoft. 
 
 Once the splash screen disappears after a 3 second timer, the programs UI and a blank canvas will generate. Here the user can begin creating a work of art! Several tools are available to the user by clicking on tool icons spread across the dashboard at the top of the screen. Tools include: 
