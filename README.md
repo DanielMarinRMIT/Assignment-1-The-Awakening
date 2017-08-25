@@ -1,1 +1,1 @@
-# Assignment-1-The-Awakening
+# Assignment-1: Make Some Art or Something: Professional Edition 2018
